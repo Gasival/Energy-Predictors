@@ -1,0 +1,6 @@
+building_metadata.csv filter=lfs diff=lfs merge=lfs -text
+sample_submission.csv filter=lfs diff=lfs merge=lfs -text
+test.csv filter=lfs diff=lfs merge=lfs -text
+train.csv filter=lfs diff=lfs merge=lfs -text
+weather_test.csv filter=lfs diff=lfs merge=lfs -text
+weather_train.csv filter=lfs diff=lfs merge=lfs -text
